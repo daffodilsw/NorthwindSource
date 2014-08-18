@@ -7,7 +7,8 @@
         "url": "https://github.com/daffodilsw/NorthwindSource"
     },
     "dependencies": {
-        "NorthwindTestCase": "git+https://pawan-daffodil:pawan-1234@github.com/daffodilsw/NorthwindTestCase.git"
+        "NorthwindTestCase": "git+https://pawan-daffodil:pawan-1234@github.com/daffodilsw/NorthwindTestCase.git",
+        "moment":"2.7.0"
     }
 }
 
